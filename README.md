@@ -38,6 +38,8 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ---
 
+![IFES - Linhares](DIAGRAMA DO CONTROLADOR.jpeg)
+
 ## ⚙️ Principais Características
 
 * Controle em malha fechada com realimentação por encoder;
