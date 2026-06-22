@@ -4,7 +4,7 @@
 
 **Instituto Federal do Espírito Santo (IFES) – Campus Linhares**
 
-![IFES - Linhares](images/AEROPENDULO.png)
+![IFES - Linhares](images/IFES.png)
 
 ## 📖 Sobre o Projeto
 
