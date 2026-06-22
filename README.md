@@ -1,6 +1,7 @@
 # Controle de Posição de um Aeropêndulo com Lógica Fuzzy
 
 **Projeto Final da disciplina de Controle Inteligente**
+
 **Instituto Federal do Espírito Santo (IFES) – Campus Linhares**
 
 ![IFES - Linhares](image.png)
