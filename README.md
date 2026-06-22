@@ -85,7 +85,7 @@ Este trabalho foi desenvolvido como projeto final da disciplina de **Controle In
 
 
 <div align="center">
-  <img src="./AEROPENDULO.png" width="500">
+  <img src="images/AEROPENDULO.png" width="500">
 </div>
 
 <p align="center">
