@@ -38,7 +38,7 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ---
 
-![IFES - Linhares](DIAGRAMA DO CONTROLADOR.jpeg)
+![IFES - Linhares](DIAGRAMA_DO_CONTROLADOR.jpeg)
 
 ## ⚙️ Principais Características
 
