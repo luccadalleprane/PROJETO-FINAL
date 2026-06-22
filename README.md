@@ -79,6 +79,10 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ---
 
+<div align="center">
+  <img src="./AEROPENDULO/IFES.png" width="500">
+</div>
+
 ## 📚 Contexto Acadêmico
 
 Este trabalho foi desenvolvido como projeto final da disciplina de **Controle Inteligente** do curso de Engenharia de Controle e Automação do **Instituto Federal do Espírito Santo (IFES) – Campus Linhares**, servindo como plataforma de estudos em Sistemas Embarcados, Controle Inteligente e Lógica Fuzzy aplicada ao controle de sistemas dinâmicos.
