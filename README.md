@@ -22,7 +22,7 @@ O aeropêndulo consiste em uma haste articulada acionada por um conjunto motor-h
 * Motor Brushless DC (BLDC)
 * VESC (Vedder Electronic Speed Controller) Autoro V4
 * Encoder incremental para medição da posição angular 600P/R
-* Bateria LiPo 3s 11,1 V
+* Bateria LiPo 3s 11,1 V 2200 mah
 * Estrutura mecânica composta por peças impressas em 3D e perfis metálicos
 * Motor DYS D2830 1300KV
 * Hélice 9050
